@@ -1,3 +1,5 @@
+#Rock, Paper and Scissors Game
+
 #Here, I have made a rock, paper, scissors game that takes in input from users and generates random computer choices.
 
 import random

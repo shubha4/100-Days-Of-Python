@@ -1,3 +1,5 @@
+#Tip Calculator
+
 #Here, I have created a tip calculator that takes in the amount of you bill, the tip percentage of your choosing, and the number of people in your party.
 #It then provides the total amount each person should pay.
 
